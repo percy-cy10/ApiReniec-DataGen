@@ -10,13 +10,13 @@ El sistema ha sido desarrollado utilizando Laravel Lumen.
 1. Clonar en el directorio deseado:
 
     ```
-    git clone https://github.com/DaNySLagar/apiperu_datagen.git
+    git clone https://github.com/percy-cy10/ApiReniec-DataGen.git
     ```
 
 2. Navegar al directorio clonado:
 
     ```
-    cd apiperu_datagen.git
+    cd ApiReniec-DataGen
     ```
 
 3. Instalar dependencias:
